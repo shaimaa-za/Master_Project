@@ -1,0 +1,1250 @@
+{
+    "101A5369_jpg.rf.323e5cf9b91de0a92590720cc59207da.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "11c7201418f22b072845c729a0abd0fbbb3b528d_1_jpg.rf.8be462bcac1633621294e3ffc8a2e727.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "121A1503_jpg.rf.67a2c3fa9f23271fd8502c147036b1d2.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "135A16832_jpg.rf.c6c0e99d3143e8302da3b457a0ac1539.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "175A4385_jpg.rf.54f80cdae0321e8888ebbf89b0c6645f.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "175A4687_jpg.rf.0216c98d63e617142ed46d8b4da42563.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "175A4694_jpg.rf.35d70cff1e88ba4a6b56b745ae9c5fa1.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "181A11003_jpg.rf.b36005778db3bb421a9badd3ee67b916.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "181A11477_jpg.rf.888d49ef30315784f0362b422661985a.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "181A11956_jpg.rf.ee5dcbad9842d4a6a7c3f787129c678f.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "181A11997_jpg.rf.b7ed7a876e4b19d65d6ff77e31470ee0.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "181A12016_jpg.rf.f321876e489eaaa99f718978ef9f648c.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "181A12028_jpg.rf.8831ac4448092af16f06305730fd16f3.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "28287b40f173c11762eeeffa7bbc9fb211596eb0_1_jpg.rf.141f4c17c7d942171a2e5f16b0ea15ad.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "32429f6a84afdf13f00d0285712dc3c332eadb4a_1_jpg.rf.2b0f28eda533d0d91510e30aba422f6b.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "78a390765bd56ccdc013081393f2e00c1753b312_1_jpg.rf.957b590b18a8decca6c0993f7555a9d8.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "8206a137d51abfc7878975236f7640f123f429cb_1_jpg.rf.75d21a21a5fcd42d8bb2971a1c58a295.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "91de6ecbb7f904ec333d80dec6b05ee029cef12a_2_jpg.rf.e380e4f5bd3ab19cd7310cc3a0d41f6c.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "92d9a5775a6c58c46e7dc629cf24c16dbb2fe7ef_1_jpg.rf.b77a39ac17e9276cb12df139bdbc1c69.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "96faf24e67e198b3c8468a093fec4c8fec334b26_2_jpg.rf.07255e5506fc8385c01db617a90dc9f8.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "9d731efeded00bc5efa645027e335c544e4b001d_2_jpg.rf.9ea2e510969280845505ca9d15593a1f.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "VF214_jpg.rf.59d23f3936f5fa1455d800fecbf1e143.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "VF231_jpg.rf.71157f026a506ad3ab0ebbf5ff38cacb.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "VF324_jpg.rf.367134b272f6dcef47887238161cbb82.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "VJ563_jpg.rf.44257498adf34f4c37f44fe226c58ff0.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "VL150_jpg.rf.5e823dfdefccb90d7c4a65e892a86416.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "VL158_jpg.rf.043ce7a434e3ebbaaca7a8cb35fb6b21.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "VP170_jpg.rf.df41bc166236de4c668d14fa18b08c2e.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "bracelet_288_jpg.rf.b7137e438180584683fc492a4b123515.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "bracelet_291_jpg.rf.a374dc8f2f1efab985975394f8c6aa10.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "bracelet_292_jpg.rf.d12dd11b7665c4880e73258fe430e655.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "bracelet_308_jpg.rf.79bda720febcf617495c423cd24ecf34.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "cb82990145eb5b0fbe1fe0977a0e119202ceeda1_1_jpg.rf.de41eb657c762b4bf2f359e032b99805.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "cbefb1063225b589afd6d9046ac0d980db3b0e5c_2_jpg.rf.5fedb585a04b4804b45f1da524b187fb.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "cc3f24da96b567c90ec5b318763e9ee03c04eff2_1_jpg.rf.44a55c3c3b7db0ab5a940ab9be410ddf.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "images-13_jpg.rf.1991b4e14b935d7893a415880ac72a16.jpg": {
+        "true_class": "Bracelet",
+        "predicted_class": "Bracelet"
+    },
+    "001-014-01148-image-1_jpg.rf.b36844be2d1e7ca3f9ba47cc196dff96.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Earring"
+    },
+    "1544544349-57571700_jpg.rf.743a9eb01663513cd60108ec61815526.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "169805cbfc6f349f83523dede3ae3541_large-1-_jpg.rf.a65f1131408455d54f8410060f809d7c.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "200904_033414_891_835_jpg.rf.c8e60f152f54d8f28734d39a2355f780.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "20210922_144716-600x488_jpg.rf.a37f473217fcfef3b4531ed6ce945339.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "2631_6192tr_front_300x_jpg.rf.047f9dce440fd13b6335f70a7b206f1a.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "26916_1_png.rf.5ee3a5251b015691c22c87f7c7d9f3b9.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "2c14cbad-0cee-4fa8-a288-52358aabba7c_1-e44c8bee5eb298dd6749e9d471b7033e_jpeg.rf.a68242915e780b7bd1c71fd6b73c2371.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Necklace"
+    },
+    "32328-2-450x450_jpg.rf.2934cddc20758cd9cc8b116a430d1695.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "38673_A114037-Earring1-1Best_jpg.rf.5be94b93e5c33b33e784f60d4cff18e1.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "41OBUc2qfRL-_UY395__jpg.rf.cba8cea75c3f3522476ba5cadcfc5411.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "41PN-bmyslL-_UY395__jpg.rf.9083edb5386d1ce0bdf4053a802b400e.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "41rFH0x18bL-_SY300_QL70__jpg.rf.9731b7de7ee16d0de017f3a328972f56.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "43476-2-150x150_jpg.rf.ef4977c477b46d42fc4fa53b0f7819d8.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "501720HCSAAA00_1_jpg.rf.d6dd9842fa04a2a6d556b022b9ccee2a.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "502113HXZAAA00_1-1-_jpg.rf.ae60950bb341c852d088735bee4a9bfe.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "502218HDTAAA00_1_jpg.rf.dcb867fdcc8386ed94f17be1daa00e25.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "503013HZJAAA00_2-1-_jpg.rf.a2fff8df44d496b5ee2468b106766f9d.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "503213HDFAAA00_1_jpg.rf.0cf37c612dacf89e6dede2cb8b370229.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "510804DAAABA00_1_jpg.rf.77d22c96fc340bee66177a6d4ffc69bc.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "511419DJWABA00_2_jpg.rf.fbacaa5722ba0248a75bddf7d65a6512.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "511556DSCAEA00_1_jpg.rf.8b66a744bcb97431cb09c5586a4ca384.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "511920DEZABA00_1_jpg.rf.14277071988ec2940bd335d98153fc9e.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "512017HRAAAA00_2-1-_jpg.rf.affc0ea1f9a0a17e040c3a0701526577.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "512314JIBAFA00_1_jpg.rf.5360ce24725af65ae54e3da9021b486c.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "513013HDWAAA00_2_jpg.rf.23353febeb34dcbfed50c963286803bc.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "513013HVNAAA00_1-1-_jpg.rf.ba08e47d50d013a0e2fe5df4d08c8627.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "513219SQVABA00_1_jpg.rf.d784aba68ed4e951ddedf470fa757fcf.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Bracelet"
+    },
+    "5139-B0095676_grande_jpg.rf.461d6047b3d96d3de70f8334b4636755.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "513918DBNABA00_1_jpg.rf.83c382e887722c201be9aacb0df65fbc.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "513FXlFj-AL-_SY395-_SX-_UX-_SY-_UY__jpg.rf.2c9e86a00c61a6f9aea7477202ec8af4.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "51woC60wBgL_jpg.rf.d89ce51a8fc72eef0633b0266a8a7dce.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "57597_main_jpeg.rf.d9a7341091bdcc0805ae705815eaa4bc.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "59387_main_jpeg.rf.a8dd3a5e4222b2ae6fbc0fd9c009151c.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "5_on-a-wing-and-a-prairie-gold__5__1_jpg.rf.1c77acaaf731ca1db08e9510a4cb253a.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "61CEvzjb3SL-_UY500__jpg.rf.cb6c2e0de6399596e7677376e2881935.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "61Pz-NSSatL-_UY395__jpg.rf.3838b284839fbe851824f72ff7690a24.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "61TqDlj3i6L-_UY395__jpg.rf.9ca0fe1be3d3e39c9657f3840316692f.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "61YsSHH-fpL-_UY500__jpg.rf.a64d54c02052f175cb4f3b169bf32daf.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "61nWmQbN-HL-_UY535__jpg.rf.c06353f5cbbb5d0800e07571b132da9f.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "61pAcjkFtoL-_UY500_-1-_jpg.rf.a2ce24b01917cc647babce2f02f05820.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "63092_main_jpeg.rf.a184a20a804f0c50ad9e8eba6046bce4.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "6b0bc98097235140497bb8cbee3956dd_jpg.rf.1c08b3cb76aa284c368bc8764747c78b.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "7124UyjHslL_jpg.rf.379c81f630a8cc7cfbc2fd3bebb40951.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "712xD2BJCgL_jpg.rf.c134e1470e0d018c9979e335dda5d1cd.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "71fOyVaksaL-_UY395__jpg.rf.abd340e1510a9febbb4ddd283b26ea83.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "812IYTBbB1L-_UY395__jpg.rf.3df4fd75c55026efdd375f0839884ea0.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "817CJiNxJgL-_UX395__jpg.rf.3a62ea1153a7299f293e68c79d32eb04.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "81FDQhv3ohL-_UY395__jpg.rf.c19a1ddebf39769cc27972044aaef15c.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "81OMRYN0kZL-_UY535__jpg.rf.57ab173e9a1902fff96a79a22f4ad985.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "81kfi49-kgL-_UY395__jpg.rf.89b4eac04c4216f191d672ca817770db.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Ring"
+    },
+    "86681d5c-8c40-45d1-a0ba-6d4bed9b07c81534240099173-Rubans-Gold-Toned-Crescent-Shaped-Chandbalis-6261534240098977-1_jpg.rf.06400f421d836db19af7b256c315c54c.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Necklace"
+    },
+    "8925_WHITE_jpg.rf.885b9de84fa5fec51124feb7c2901549.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Necklace"
+    },
+    "9556046_fpx_jpeg.rf.9fe5a2aa97e29f397cf059558d7a0811.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "99081_1_jpg.rf.e528a48bf6bf6c6128e9788859a798e7.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Ring"
+    },
+    "BL1954-1__2022-04-27-19-01-10-300x300_jpg.rf.c84a4021eb4e4a79922c692c185048a7.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "CALER116-A_jpg.rf.c7986db4f830e899cf3286bd69f13957.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "CT-ERG-45160-M-1-2x-500x500_jpg.rf.979ce37e6ae608bd9f5cb49b6d811123.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "Chandelier_Diamond_Wedding_Earrings_JLE35-750x500_jpg.rf.d4dda15eac4a42d5b1aa11bd2c810dae.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "China-Supplier-Gold-Jhumka-Women-Silk-Thread-jpg_350x350_jpg.rf.782aeb5a274ad276b7c82724cdc5ec66.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "DE06400200_hero_jpeg.rf.eefb782f9b103ecf9038ec0fc47746e6.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "DIDE0015_1Y_jpg.rf.8c4b2536f03304810dd3e01ae0707a03.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "Diamond-Earrings-SMT337_GF-600x600_jpg.rf.d28527584adbfef6e82525f10cea204a.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "Diamond-Earrings-T7743_GF-600x600_jpg.rf.2949b534df2ef1214526c5812613349a.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "Dubai-Unusual-Hoop-earrings-gold-plated-for-women-fashion-Women-s-jewelry-ear-rings-Dangle-earring_jpg.rf.9d9b6007c784473cfd950c040059f49b.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "E2950Pe_1_b91f8d16-83fa-4ba5-9562-00fbe30bad5e_jpg.rf.33690d7c466b42c0f969c97c21cc5398.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "E3130_jpg.rf.5b943768ef94b3112165af812eb79029.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "E747-yellow-gold-18k-heart-shape-two-heart-cute-earring-the-lastest-designs-hotsale-cute-earrings_jpg.rf.91d7628a15147cb733f685a408aa0a2d.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "EADPCLSMMAQ_263962_1_Masked_png.rf.8de5baeae065b91206d09e1c0779fb87.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Bracelet"
+    },
+    "GGSDCiJvMV_20180411121700_jpg.rf.4fc08e07d0ac1edbd439d5e4b994a417.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "a3cf2c81b309de0c876a930c28501a49-1-_jpg.rf.88d94ed639cb63e84793600536f95441.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "a_1-_jpg.rf.bce2aeaeae123821c050d1cf4bf616de.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "aier_1192_a-_spargz-fancy-paper-quilling-black-dangle-gold-plated-fashion-jewellery-earrings-set-for-women-and-girls-code-aier-1192-_jpg.rf.22b54e3f6fa598e39486022128df8695.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "angelucci-jewelry-earrings-yellow-gold-10k-yellow-gold-claddagh-hoop-earrings-15696316563491_jpg.rf.823c7280fc924a58d8f2f2c4f86ed503.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "apart-ap528-8546-0-1-_jpg.rf.95691f956cf3c74c7cab8a74e5fcb587.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "ariel-elegant-diamond-earrings-jle139-1-750x500_jpg.rf.594a5d758216e602d4a45d70e72e7e93.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "base_cgl22cstu08216_jpg.rf.addffff82ad3d6f3500a91b71a5370a8.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "beautiful-vintage-oriental-gold-turkish-260nw-728983897_jpg.rf.982da076ba4510e8ac6c47efaca1f8ca.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "buti-earring-250x250_jpg.rf.43efbcca0cc764a8997a19109269089c.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "c92f96c3ccb5fcd35635fd2be70c54cd_jpg.rf.ded9fa3856f1bc2ee7ca763d4a6253e1.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "c98f2d9d76d720bfa509aba2296e12d9-gold-earrings_jpg.rf.1d9cfaa9d7e0069beda7cab681c3d2a0.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "diamondcuthoop_jpg.rf.831b6983c89accc37a42483812e8f614.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "download-5_jpg.rf.721036f7370f0e9cc961744065bdbf31.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Ring"
+    },
+    "e6aa6ba7-4f79-40bb-b096-4bf54580092e-b05252eff40c94955c665a30969fccee_jpeg.rf.4aefcc44f98540fb66cb2d42ee3900e9.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Earring"
+    },
+    "ger15009-a_png.rf.d97e41617386a3b96b7aaea6e06ee1b7.jpg": {
+        "true_class": "Earring",
+        "predicted_class": "Necklace"
+    },
+    "51VxbpKvb3S_jpg.rf.011d356a4f2f5ce885cf91b3bd98e1d9.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "51XSk3mlZSL_jpg.rf.b3045c51a9b16bf43e0adc26e4fb4b56.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "51vm4zFJYJL_jpg.rf.a4df9c02eb395b959d6609b6c7f4a3c5.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "Crystal-Haze_Jewellery_OSLO-CHAIN-52-CM_OSLO-CHAIN-18K-GOLD-PLATED-BRASS-52CM-OSLO-CHAIN-52-CM_GOLD_FLATLAY_jpg.rf.042f71c3234d72b7b1f5a212b1fe458a.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "chunky-chain-golden-metallic-necklace-260nw-361285127_jpg.rf.fc3e940c0c3aed9dd13e850704571777.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "cub4_e39ffb1a-3b80-431f-810a-57ad76bdb1c3_700x700_png.rf.6ab5083586969bc158b2f410779f773b.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "depositphotos_2526667-stock-photo-golden-necklace-isolated-on-the_jpg.rf.7d513873d8ffa356bd01d804ec024d1b.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_115_jpg.rf.97f7cbb7fe7bcecce3df334d6c024833.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Bracelet"
+    },
+    "necklace_116_jpg.rf.e064f56f0a3fa3cd54c130c6f5dc2a18.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Bracelet"
+    },
+    "necklace_118_jpg.rf.dd46932165857eec5e91c19b8f23c730.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Bracelet"
+    },
+    "necklace_119_jpg.rf.08df1cc9477ce8216fe1fa86d160522d.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_120_jpg.rf.4fbf6598bf01e25d42a78a5541e9fc8c.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_121_jpg.rf.a742477a3db27b584653682968ce6dd8.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_122_jpg.rf.f438fb8cc41fcd628e0995621f227557.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_123_jpg.rf.3a8b3d8887c2b335ce26f59a128e9c45.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_124_jpg.rf.b019fdbb2fd15b368b2c9d63f36f8ff0.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Ring"
+    },
+    "necklace_151_jpg.rf.14e90d609f719bdb0569ecee8404b76b.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_153_jpg.rf.e32905709c70911a10f6c22124f4dbbc.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Bracelet"
+    },
+    "necklace_154_jpg.rf.41eb90a55d3eb4f9485564b34a48c3ea.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_155_jpg.rf.a5cd13a37aaaf3265301c41e0aa2a078.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_156_jpg.rf.c3b2976be17db779ef348cf54da4e7d7.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_158_jpg.rf.cfa21066c590e9e77973a69304007a1a.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_160_jpg.rf.8c3497c1eaf682f59a69410523dfb0f8.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_161_jpg.rf.435661b5f20a7958f38dcdd2d6f75bdd.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_162_jpg.rf.ee0bdb4f87073b126a08b1b25927f663.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_164_jpg.rf.00089bc9b907affce60c49d4c97fccfa.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_165_jpg.rf.5c403d459a485bd0934e93e87c3d5aa9.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Bracelet"
+    },
+    "necklace_180_jpg.rf.d26a9d5f317a3428170ead1e533092ea.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_181_jpg.rf.008a26f7c784ac90e9e25fba8a304dde.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_182_jpg.rf.8b91e3babf02efd13c65d00edf10464d.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_183_jpg.rf.1edc6353bf418765edee52acf85fddb3.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_184_jpg.rf.98e3e923dd34a331310f724c98ef76bc.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_185_jpg.rf.c24f30c9089ac61b06eb9b61316642a4.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_186_jpg.rf.4fa34c998d29b2e183036b64bb5717d4.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_187_jpg.rf.0e2c7c148102c9a9c3c39ebc4ff5d03f.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_188_jpg.rf.b1253255dd72c614065bc1b8c9447bf9.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_189_jpg.rf.39b3026106e1800c83d719ee5cd85fee.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_1_jpg.rf.694c699bd0e874ac5c76f2b693414022.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_20_jpg.rf.fc7882527a00176c1dda4c326a795adc.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_21_jpg.rf.43911c7d5887f5e73b85bfbbde382679.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_24_jpg.rf.69f32871d1a12c9ca19b3744278ea977.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_25_jpg.rf.8f036959aedd2339af17847ac3216e9e.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_29_jpg.rf.28785ef2c6dbd560e33fff5471095847.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_40_jpg.rf.ad8ed9be1fb7847faaaac7543722a8ed.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Bracelet"
+    },
+    "necklace_46_jpg.rf.e1419f8e99e89df9bcdfc576c079e1e4.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Bracelet"
+    },
+    "necklace_56_jpg.rf.1cdbd186ba0a7cabcf9bc8e8d8f100a3.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_57_jpg.rf.61f59aaff182c27a3327d35fa55e8872.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_58_jpg.rf.eabeb4947245ec76e3903a3c301de57c.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_59_jpg.rf.12f434843fc0104220065b35353ea109.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_60_jpg.rf.ea659cab2c5202d8ef44f23682ca6e6d.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_61_jpg.rf.569b60da1a091aebc2ac8aad254c3b2d.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_62_jpg.rf.7cedaf88255c6174ebf5c4390f50ff34.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_64_jpg.rf.31145e65bb756f7722b170205ffb223f.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_65_jpg.rf.deff5872a9389982e47b3808185a558b.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_66_jpg.rf.47621883c59949fd4f7b39083e99fcbb.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_6_jpg.rf.b56a4d93c91da364dceda47da1d07cef.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_79_jpg.rf.d17848487cf9508581a2a84e5e6af929.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Earring"
+    },
+    "necklace_81_jpg.rf.37c1aa8339be5079bcb8cf201e38b172.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_82_jpg.rf.5430fa050d0448de4e01fb24a8c6016e.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_84_jpg.rf.64fe3041b11f1e1b35c875b12a944281.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_85_jpg.rf.201180e632550a49c1a646fade8a3058.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "necklace_88_jpg.rf.a15d5b3b6847bfc291ab31007c317c86.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l1600-1-_jpg.rf.99df8d996343789ea8c8b81d66b37b89.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l1600-2-_jpg.rf.6fe998ecf2aa348688e898fda8f4fffc.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l1600-3-_jpg.rf.f444319bb72848e9649e57c6ee98303b.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l1600-4-_jpg.rf.9a8d55ee45cf75df85eef0f1e65e2fe7.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l500-1-_jpg.rf.93c443f919663761cc2e8244254c13ed.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l500-2-_jpg.rf.8e9e07b8b7c3f5f14c64595fedfd48e2.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l500-3-_jpg.rf.729ab4654ebf97e571baf2fc34f7f832.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l500-4-_jpg.rf.acd89aae4d23fb5897428b94ee14b5f1.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l500-5-_jpg.rf.f28fe5c54768f3420992a20fb5ba383a.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l500-6-_jpg.rf.cb3bedcc6ca3aaa121411d3b2e819ba2.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "s-l500-7-_jpg.rf.28801e7c99beef2a84305498e869805b.jpg": {
+        "true_class": "Necklace",
+        "predicted_class": "Necklace"
+    },
+    "00001_Irene_Round_Pave_Engagement_Ring_Wedding_Rings_Moissanite_Lab_Created_Diamond_GIA_Diamond_ARIJEI_Front_Yellow_Gold_9264f257-b5a9-43f3-817b-c8e666f71b43_150x_jpg.rf.e7eb5f1fb3513aa29dd0d222bc23de7c.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "0001_jpg.rf.06f3e4622ab4abeed57813c6666bdd76.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "1-00-carat-solitaire-engagement-ring-in-white-gold-with-diamond-of-exceptional-quality-d-if-ex-none-fluorescence-gia-certificate_jpg.rf.4cd9a6a243b1e54ed7750f652d7a3085.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "1026_0201_714903_jpg.rf.e90a48c962cc4772cfb0690e45ee4a42.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A3852_jpg.rf.044b596bd466ca840a8c71b6e870e357.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A3853_jpg.rf.9096aff9868d7afaedbd74f4c0b5d324.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A3887_jpg.rf.a613b61c18c31134571d44d618bd8e3d.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A3888_jpg.rf.ffd7eb6145c7a819f803fda445030973.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A3945_jpg.rf.04b428195b47d35429d73852f546b59f.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A3947_jpg.rf.20c874816612007faf2edf92440bbcb1.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A3951_jpg.rf.e19654347400e2d66ea33c71f2596e8e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A3997_jpg.rf.c3b8895cd09d5b709d081aa8a1c15e9b.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A4002_jpg.rf.41219b8789fde79208cc03fba7c6a708.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A4004_jpg.rf.1252dbd57ac952679dd9976f51735530.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A4005_jpg.rf.29d1e40b281136fbd8790cae905c398c.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A4017_jpg.rf.fa0cc6dc4920e25fa7beee6a2a2ef6cd.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A4021_jpg.rf.42deaf476cad711872cb910fd3b1b117.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "117A4094_jpg.rf.563a30fbdf5ec038a441171a9cd1cde3.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "1735_jpg.rf.d6504ad7af6619fb2148e3a3625b74d5.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "1d37a2e9-0305-43c0-b29e-1fec2d9e5709_1-e5f4c3c9f8f7ce0f2dc87db6b9efdaba_jpeg.rf.9e0450f4d0d7185ea7ed04e6fef415f4.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "1e26ac4cfe11e1d97b9fe44e5fc28037_jpg.rf.f8e91d023f705e3f705b8e5c68595a20.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "2CT-Custom-Moissanite-Diamond-Vvs-D-Color-Engagement-Ring-14K-White-Gold-Brilliant-Round-Cut-Wedding-Ring-Design_jpg.rf.f92b5c723ffc0657fe22bad008ac5ebf.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "42413_jpg.rf.67128e4b029d3258f66b101ebdf46e51.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Earring"
+    },
+    "42659_jpg.rf.e44ab62d699241b52fc1a1ecf9a8960f.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "519UN3QpWBL-_AC_UX569__jpg.rf.e744f5d86f64929d744ac02e1af223e8.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "5b262462-cc99-49cd-9310-514602c361a0_buNxYy0-jpg-800x800_q85_background_jpg.rf.aee98aede8072c251074d44a7d4b40fe.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "616wo43t4PL-_UY535__jpg.rf.2eeb431ce42829b226eb87a449daf11e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "IMG_6007_JPG.rf.f7398cba7421503d3cea992d8371edda.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "IMG_6008_JPG.rf.6ea17fb2ce2bf43ba231c4fa8df808df.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "IMG_6010_JPG.rf.62d48c77ea92f01a7ad03b808af2f3db.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-13-_jpg.rf.a3818a7a2b68b241a40d3c137f07a355.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-14-_jpg.rf.ced5cee3c6789c1eab70dfb208dae130.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-15-_jpg.rf.48e832ea9bfc2cd508ef4711d8647ea8.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-16-_jpg.rf.92000bea1f849fa67b83f5e8e60ca18b.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-18-_jpg.rf.044379bfd7e8db306c4b9e6f6aebd801.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-19-_jpg.rf.dbeb0139de73d813eed7553929180da1.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-23-_jpg.rf.8079276daade2a00f658ad6dabfda1a8.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-67-_jpg.rf.0cfc9115316544e9df9cf8036b72c409.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-68-_jpg.rf.5169eae88593d26efa85863b6de1c9cc.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Earring"
+    },
+    "download-71-_jpg.rf.71a0d51751c393235d1eaeae0a486c7e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Earring"
+    },
+    "download-72-_jpg.rf.471ef476c43e54f5b397a3ca53b42dec.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Earring"
+    },
+    "download-73-_jpg.rf.e2d2c72b2ef0ebea43b2fe668ca4995f.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-74-_jpg.rf.fdb7b7964ed76023a5b083adcdb132c5.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-75-_jpg.rf.0b6dd616302a1e8052bba5d09563d0f0.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-77-_jpg.rf.440181b97b8d15e1b35bd922b905d364.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "download-78-_jpg.rf.d62a68721c89348fbf2c3c02d65d95ad.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "hrr3141stdh082021_3_jpg.rf.fc353b426fa57ef0024d62503cf524ac.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "hrr354-rose-1_2_1_jpg.rf.ae103c0e6bb8614c53cbb4ecf2909696.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "hrr480-still-rose_jpg.rf.c9a0d9ff072d31c0c41fb682ef79cacb.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "hrxsd473-white-1_2_jpg.rf.db359f8526de4432571afab6ae378f5b.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "il_1080xN-994557687_3716_jpg.rf.8fd4bb825921a24025b54d846367d7c5.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "il_340x270-4298582411_pd8i_jpg.rf.265173627f38bb433c93b6d8a80df73e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "il_570xN-2257924936_d625_jpg.rf.239e4e762011ab6119e3d50e4481f44e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "il_570xN-4124887795_pk2z_jpg.rf.ff9832f7c17dce3842fb23daef895f9b.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Earring"
+    },
+    "il_fullxfull-2040520098_bboi_jpg.rf.e58da033db11e7fa04ca25a8bbb8ef36.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-20-_jpg.rf.28996e8b27e7c80b77366c67aa35bb90.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160252-092_jpg.rf.c52c00e2f5b0deba382c5c17a0f5eba2.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160252-163_jpg.rf.36b841ae70a055719c427d8ed629106e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160252-225_jpg.rf.daf49ed0fd88371871f765065eeea8df.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160422-070_jpg.rf.d3a9fdefc3463ab524f44227751beef8.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160422-086_jpg.rf.8c6aeeca4067f48947323957404e36e6.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160422-105_jpg.rf.29d989051cc7361b847e0431e3a494f1.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160422-137_jpg.rf.01ccab1d620d65f8f3584eece4095ba6.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160422-245_jpg.rf.a3abe22a03ac2e55dd33ef5ae6d7be84.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160422-306_jpg.rf.34fd849d3cdb757cfed67fc3b3b1b5c8.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-2023-03-28T160422-351_jpg.rf.c5eac3c9b35abdd276c5df3ea89263c7.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-21-_jpg.rf.6656ccece4a2ca598aed3b3643034c15.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-22-_jpg.rf.b2aacc3c3884210d4f3c46a0d5cf375e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-25-_jpg.rf.ba9e7b97ebd7f1d6ab59b374fd69ecff.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-30-_jpg.rf.c1ccaeaba90724643a1cb1b72171a216.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-33-_jpg.rf.b85362646dcfb8ee4925092385ecda72.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-34-_jpg.rf.93fdc03554aa6195bbb61168c967289a.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-38-_jpg.rf.cb8452151c8c63d6820f08c4704e57c8.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-40-_jpg.rf.d0233809e5fd07614127ffd46c3a02ab.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-56-_jpg.rf.4f1b7ee036028342f412e1f2dc63728e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-58-_jpg.rf.1e1087b2802ffadfeaa9c37055b8a0ce.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-61-_jpg.rf.ca6e08f2ce14b5c8f8c87446997a40e3.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-89-_jpg.rf.ce2345eb7fcb485dfa6c0c4175b9bd24.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-92-_jpg.rf.3ca58fb73857fd564b6004f414910d4c.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "images-94-_jpg.rf.98b8662e5ffcb0806256b0def298d211.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_009_jpg.rf.2a9cb361aa03ab70712319cef0c5896e.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_015_jpg.rf.090b6470f58c41535f699a9bdf923524.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_017_jpg.rf.cc2286b30d537ffd56222c64708b2464.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_021_jpg.rf.4a64b7d9e1250604d89ddc15469d2fe1.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_024_jpg.rf.edc717074c79174741fbcf1b93616658.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_027_jpg.rf.a054cb10b9bfee69145fe03f654eab44.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Bracelet"
+    },
+    "ring_028_jpg.rf.801a20df7546b37109f93e51825be336.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_038_jpg.rf.a09e0e95b9c8cca897ddb47d620c5558.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_040_jpg.rf.2deb2480e1354d526c2f93714b7ef253.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_103_jpg.rf.3ec3059a65ebe00db99cd70ad2e44aee.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_104_jpg.rf.e6aa85eadbb1cbec805ebc88613f2953.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_105_jpg.rf.63862b636b28dc54c6daf1421f92fae6.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_108_jpg.rf.b8bdfb9002e762889109802358fcf824.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_110_jpg.rf.bd999538ec5e1d95fd79bc7b1f1ef52d.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_135_jpg.rf.09519728bf8a1c75a80a406a31cf7484.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_136_jpg.rf.d08afdf6bb977bc2d4566a96bb7521b0.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_137_jpg.rf.29b114874ca32c6126ec2b9e68d15d85.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_138_jpg.rf.92636af8d27efe2566328f1d20180730.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_139_jpg.rf.9e6831b2e4c368711501dfc3008ce858.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_140_jpg.rf.4133bfa45fdabd41e4f7e8ff66e0460b.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_141_jpg.rf.2be04f9acd2e1e442752faa986e76975.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_143_jpg.rf.36c34d2fc161032edc14b37f0d774916.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_144_jpg.rf.31ddaf7934e99bb1f691c50b071f01aa.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_157_jpg.rf.b5b50cf0ef674767917d92d00abf4888.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_158_jpg.rf.4cd747a4a96123b811488d148e7e15e6.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_159_jpg.rf.4f53e22b9fc3e9e38f51cea179056b1c.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_160_jpg.rf.e075a19d5f3b66cd6ca1ba8ab37192b3.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_161_jpg.rf.58f402e976e759e8a4ea3029b4d71781.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_162_jpg.rf.250ed8f56bae8b17e8f9de328aa87357.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_165_jpg.rf.3e9c2bad494a322f1e0cddc42a25b4a9.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_166_jpg.rf.6c56e3f5694ae90105a132d0ba449c6f.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "ring_183_jpg.rf.33f0551a3d093a689877859779417d4f.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "s-l1600-6-_jpg.rf.3257de35325f68b2a24fc62c093c58a4.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "s-l1600-8-_jpg.rf.a14e8ea73c4bfcfcd690516364609060.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "s-l500-13-_jpg.rf.5f7ac31aed139d5c99daee96a3187611.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "s-l500-7-_jpg.rf.bfa1618600f230f2768132c5148a45cd.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "s-l500-8-_jpg.rf.5427b7bec9530a1d47ea1702346e4d45.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    },
+    "solitaire-diamond-engagement-ring-500x500_jpg.rf.2874ce9c4670c1bad0c79ec487a949df.jpg": {
+        "true_class": "Ring",
+        "predicted_class": "Ring"
+    }
+}
